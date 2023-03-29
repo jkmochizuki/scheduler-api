@@ -18,7 +18,7 @@ PGUSER=development
 PGDATABASE=scheduler_development
 PGPASSWORD=development
 PGPORT=5432
-```
+
 
 ## Seeding
 
